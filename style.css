@@ -398,12 +398,17 @@ section {
 }
 
 .footer .social-links {
-  color: #ccc;
+  color: #ffffff;
   font-size: 3rem;
   transition: color 0.3s;
 }
+.footer .social-links a{
+  color: #ffffff;
+
+}
+
 .footer .social-links a:hover {
-  color: var(--bg-card);
+  color: var(--main-color);
 }
 
 .footer-bottom {
